@@ -5,8 +5,8 @@
 Optical engineering professional seeking opportunities to participate in improving the lives of our local residents by furthering their education opportunities, providing access to new tools, and supporting environmental and social initiatives.
 </h4>
 <h5 align="left"> 
-  http://www.linkedin.com/pub/amy-winkler/15/522/517 <br>
-  winkleramy@gmail.com,
+  <a href="http://www.linkedin.com/pub/amy-winkler/15/522/517">LinkedIn Page</a> <br>
+  <a href="winkleramy@gmail.com">winkleramy@gmail.com</a>,
   +1 (314) 740-0867
 </h5>
 

@@ -1,5 +1,3 @@
-# Resume
-
 <h1 align="left">
  Amy Winkler
 </h1>

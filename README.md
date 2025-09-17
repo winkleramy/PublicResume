@@ -7,8 +7,6 @@ Optical engineering professional seeking opportunities to participate in improvi
 <h5 align="left"> 
   <a href="http://www.linkedin.com/pub/amy-winkler/15/522/517">LinkedIn Page</a> <br>
   <a href="https://www.researchgate.net/profile/Amy-Winkler-2?ev=hdr_xprf">Research Gate Publications </a> <br>
-  <a href="mailto:winkleramy@gmail.com">winkleramy@gmail.com</a>,
-  +1 (314) 740-0867
 </h5>
 
 ## Education

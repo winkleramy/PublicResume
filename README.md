@@ -22,12 +22,12 @@ Southern Illinois University in Edwardsville (2001-2005)
 - Awarded Outstanding Alumna in 2017 by the Department of Electrical and Computer Engineering
 
 ## Experience
-**Apple, Inc in Cupertino, CA** (2014-present)
+**Apple, Inc in Cupertino, CA** (2014-2024)
 
 Technical contributor in Product Integrity, involved in the design and factory deployment of Apple-proprietary instrumentation to characterize, calibrate, and test key features of Apple's product line, significantly impacting the performance of Vision Pro, FaceID, Camera, and TruTone
 
-- *2020-present*: Initiated the Optical Engineering team within our department, expanding our ability to serve the wider department and our cross-functional partners 
-- *2019-present*: Served as a member of the Technical Staff within the Hardware Test Engineering department, mentoring junior engineers and owning the hard calls on instrumentation and test station design
+- *2020-2024*: Initiated the Optical Engineering team within our department, expanding our ability to serve the wider department and our cross-functional partners 
+- *2019-2024*: Served as a member of the Technical Staff within the Hardware Test Engineering department, mentoring junior engineers and owning the hard calls on instrumentation and test station design
 - *2023*: Authored internal documentation and presentations to educate cross-functional team members on the instrumentation underpinning the key features of Vision Pro
 - *2021-2023*: Worked hand-in-hand with Apple's vendors to ramp national-lab-traceable radiometric and geometric instrumentation for Vision Pro display calibration and test
 - *2020-2022*: Introduced custom hardware and methods to calibrate and test near-eye display instrumentation for the unique specifications and requirements of Vision Pro
